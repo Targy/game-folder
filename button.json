@@ -1,0 +1,17 @@
+{
+    "#button":
+    {
+         "colours":
+         {
+             "normal_bg": "#ABD6DFFF",
+             "hovered_bg": "#7DB46CFF",
+             "normal_text": "#0000000",
+             "hovered_text": "#0000000"
+         },
+         "font":
+         {
+             "name": "montserrat",
+             "size": "12"
+         }
+    }
+}
